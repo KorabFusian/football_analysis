@@ -1,2 +1,6 @@
 *__pycahce__*
 *.pyc
+.vscode
+.env
+training/football-players-detection-1
+training/yolov5xu.pt
